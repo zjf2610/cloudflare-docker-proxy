@@ -8,13 +8,13 @@ const dockerHub = "https://registry-1.docker.io";
 const routes = {
   // production
   "docker.zjf2610.top": dockerHub,
-  "quay..zjf2610.top": "https://quay.io",
-  "gcr..zjf2610.top": "https://gcr.io",
-  "k8s-gcr..zjf2610.top": "https://k8s.gcr.io",
-  "k8s..zjf2610.top": "https://registry.k8s.io",
-  "ghcr..zjf2610.top": "https://ghcr.io",
-  "cloudsmith..zjf2610.top": "https://docker.cloudsmith.io",
-  "ecr..zjf2610.top": "https://public.ecr.aws",
+  "quay.zjf2610.top": "https://quay.io",
+  "gcr.zjf2610.top": "https://gcr.io",
+  "k8s-gcr.zjf2610.top": "https://k8s.gcr.io",
+  "k8s.zjf2610.top": "https://registry.k8s.io",
+  "ghcr.zjf2610.top": "https://ghcr.io",
+  "cloudsmith.zjf2610.top": "https://docker.cloudsmith.io",
+  "ecr.zjf2610.top": "https://public.ecr.aws",
 
   // staging
   "docker-staging.zjf2610.top": dockerHub,
